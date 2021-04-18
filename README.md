@@ -1,2 +1,11 @@
-# Asrock_H310m-dvs
-Opencore(bigsur) for Asrock h310m dvs - intel core i7-9700k
+# Asrock H310m dvs
+
+## Opencore EFI for BigSur
+
+CPU: Corei7-9700k
+
+Network: RealtekRTL8111
+
+Graphics: Amd Radeon RX 580 8 GB
+
+Ram: 16GB
